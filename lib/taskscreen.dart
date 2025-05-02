@@ -29,12 +29,6 @@ builder :( context ,Taskprovider, child ){
 ),
 ],
 ),
-Textfromfield(
-cotroler:_contrler,
-decoration :inputDecoration(
-label: Text('enter')
-),
-),
 
 
 
